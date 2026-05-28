@@ -9,3 +9,5 @@ MyArr.pop()
 
 console.log(MyArr)
 //console.log(myAr2.length())
+const arr = [1,2,3,4]
+console.log(arr)
